@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sayurkita/static/css/main.1f6ba662.chunk.css",
+    "main.js": "/sayurkita/static/js/main.b9e10ee1.chunk.js",
+    "main.js.map": "/sayurkita/static/js/main.b9e10ee1.chunk.js.map",
+    "runtime-main.js": "/sayurkita/static/js/runtime-main.5c6c6529.js",
+    "runtime-main.js.map": "/sayurkita/static/js/runtime-main.5c6c6529.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/sayurkita/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f4553d81.chunk.js": "/sayurkita/static/js/2.f4553d81.chunk.js",
+    "static/js/2.f4553d81.chunk.js.map": "/sayurkita/static/js/2.f4553d81.chunk.js.map",
+    "static/js/3.dcf91ec5.chunk.js": "/sayurkita/static/js/3.dcf91ec5.chunk.js",
+    "static/js/3.dcf91ec5.chunk.js.map": "/sayurkita/static/js/3.dcf91ec5.chunk.js.map",
+    "index.html": "/sayurkita/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/sayurkita/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.1f6ba662.chunk.css.map": "/sayurkita/static/css/main.1f6ba662.chunk.css.map",
+    "static/js/2.f4553d81.chunk.js.LICENSE.txt": "/sayurkita/static/js/2.f4553d81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c6c6529.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f4553d81.chunk.js",
+    "static/css/main.1f6ba662.chunk.css",
+    "static/js/main.b9e10ee1.chunk.js"
+  ]
+}
